@@ -1,0 +1,934 @@
+html,
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 100%;
+    /* Ensure the body and html cover the full height */
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #100314;
+    background-image: url('pics/backgroundSOL.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    scroll-behavior: smooth;
+    color: rgb(219, 236, 227);
+}
+
+
+/* TITLE ANIMATION */
+
+@keyframes outlineColorChange {
+    0% {
+        text-shadow: 0 0 5px #fef8ff, 0 0 10px #d027ff, 0 0 10px #d027ff;
+        /* First color combination */
+    }
+    50% {
+        text-shadow: 0 0 5px #d1c4ff, 0 0 10px #9d75f2, 0 0 10px #9d75f2;
+        /* Second color combination */
+    }
+    100% {
+        text-shadow: 0 0 5px #b19cd9, 0 0 10px #53e3cc, 0 0 10px #53e3cc;
+        /* Third color combination */
+    }
+}
+
+@media (min-width: 1024px) {
+    @keyframes outlineColorChange {
+        0% {
+            text-shadow: 0 0 5px #fef8ff, 0 0 10px #d027ff, 0 0 10px #d027ff;
+            /* First color combination */
+        }
+        50% {
+            text-shadow: 0 0 5px #d1c4ff, 0 0 10px #9d75f2, 0 0 10px #9d75f2;
+            /* Second color combination */
+        }
+        100% {
+            text-shadow: 0 0 5px #b19cd9, 0 0 10px #53e3cc, 0 0 10px #53e3cc;
+            /* Third color combination */
+        }
+    }
+    .title-container {
+        padding: 0;
+        margin: 0;
+        display: flex;
+        align-items: baseline;
+        /* Align text and moto1 to their baselines */
+    }
+    .highlight {
+        color: #d027ff;
+        /* SOLANAL and deep gains in this color */
+        font-weight: bold;
+        /* Optional: Make the highlighted text bold */
+    }
+    .title {
+        font-size: 17vh;
+        margin: 0;
+        padding-left: 15px;
+    }
+    #q_1 {
+        font-size: 1.3rem;
+    }
+    .moto1 {
+        font-size: 6vh;
+        margin-left: 35px;
+        /* Add space between title and moto1 */
+        margin-top: 0.5em;
+        /* Add vertical space if needed */
+    }
+    @keyframes colorChange {
+        0% {
+            filter: drop-shadow(0 0 5px #fef8ff) drop-shadow(0 0 10px #d027ff);
+            /* First color combination */
+        }
+        50% {
+            filter: drop-shadow(0 0 5px #d1c4ff) drop-shadow(0 0 10px #9d75f2);
+            /* Second color combination */
+        }
+        100% {
+            filter: drop-shadow(0 0 5px #b19cd9) drop-shadow(0 0 10px #53e3cc);
+            /* Third color combination */
+        }
+    }
+    #asset {
+        animation: colorChange 3s infinite alternate;
+    }
+    #et {
+        font-size: 6vh;
+    }
+    #biggest {
+        font-size: 6vh;
+    }
+    .logo_BIG {
+        height: 26vh;
+        width: 26vh;
+        margin-bottom: 5px;
+        position: fixed;
+        bottom: 3px;
+        /* Position the logo at the bottom of the screen */
+        left: 20px;
+        /* Position the logo at the left of the screen */
+    }
+    .ass {
+        color: #d027ff;
+        font-size: 6vh;
+    }
+    #dots {
+        color: #53e3cc
+    }
+    #xrpl {
+        color: #d027ff;
+        text-shadow: #100314;
+        font-weight: bold;
+        font-size: 6vh;
+    }
+    /* LOGO */
+    .container {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        margin-right: 20px;
+        position: fixed;
+        /* Fix the position at the bottom */
+        bottom: 20px;
+        /* Align to the bottom of the screen */
+        right: 0;
+        /* Align to the right of the screen */
+        padding: 10px;
+        /* Add some space from the edges */
+    }
+    #x_hash {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        margin-right: 20px;
+        position: fixed;
+        /* Fix the position at the bottom */
+        bottom: 0;
+        /* Align to the bottom of the screen */
+        right: 0;
+        /* Align to the right of the screen */
+        padding: 10px;
+        /* Add some space from the edges */
+        color: #53e3cc;
+    }
+    /* Styling for text */
+    #pump_text {
+        color: #ffffff;
+        font-size: 1.2rem;
+        margin-right: 8px;
+        /* Space between text and logo */
+        padding-bottom: 1%;
+    }
+    .dump-text {
+        color: #d027ff;
+    }
+    /* Logo styling */
+    .logo {
+        height: 30px;
+        object-fit: contain;
+        animation: colorCycle 5s infinite;
+    }
+    /* LOGO ANIMATION */
+    @keyframes colorCycle {
+        0% {
+            transform: scale(1) rotate(0deg);
+            opacity: 1;
+        }
+        30% {
+            transform: scale(1.1) rotate(10deg);
+            opacity: 0.9;
+        }
+        40% {
+            transform: scale(1.2) rotate(-10deg);
+            opacity: 0.8;
+        }
+        100% {
+            transform: scale(1) rotate(0deg);
+            opacity: 1;
+        }
+    }
+    .answer {
+        display: none;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        /* Transition for opacity */
+        border-radius: 5px;
+        margin: 20px;
+        position: relative;
+        font-size: 16px;
+        /* Adjust as needed */
+    }
+    .arrow {
+        height: 1.2rem;
+        transition: transform 0.3s ease;
+        position: relative;
+        top: 2px;
+    }
+    .question.active .arrow {
+        transform: translateY(-50%) rotate(90deg);
+    }
+    #note {
+        color: #d07d00;
+        text-shadow: -0.2px -0.2px 0 #4e4c4a, 0.2px -0.2px 0 #4e4c4a, -0.2px 0.2px 0 #4e4c4a, 0.2px 0.2px 0 #4e4c4a;
+    }
+    /* BOXES*/
+    #answer_1 {
+        display: none;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        border-radius: 5px;
+        margin: 20px;
+        position: relative;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+    .BOX_SUI,
+    .BOX_TRON,
+    .BOX_AVAX {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 300px;
+        padding: 10px;
+        background-color: #00474a51;
+        border-radius: 10px;
+        text-align: center;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        height: auto;
+        /* Make the box height adjust to the text */
+    }
+    .BOX_SUI img,
+    .BOX_TRON img,
+    .BOX_AVAX img {
+        width: 100px;
+        margin-bottom: 10px;
+    }
+    /* Make the address text have a white outline and ensure it fits within the box */
+    /* Box Container */
+    #copy_and_address_SUI,
+    #copy_and_address_TROON,
+    #copy_and_address_AVAX {
+        width: 160px;
+        /* Fixed width for the address container */
+        padding: 10px;
+        margin: 10px 0;
+        border: 2px solid rgba(255, 255, 255, 0);
+        border-radius: 5px;
+        background-color: rgba(255, 0, 0, 0);
+        overflow-x: auto;
+        /* Allow horizontal scrolling */
+        white-space: nowrap;
+        /* Keep the address in one line */
+        text-align: center;
+        /* Optional, center the text */
+    }
+    /* Address Text Style */
+    #address_SUI,
+    #address_TRON,
+    #address_AVAX {
+        font-size: 16px;
+        color: white;
+        white-space: nowrap;
+        /* Prevent line breaks, keep the text in one line */
+        overflow: hidden;
+        /* Hide overflow within the address element */
+        cursor: pointer;
+        user-select: text;
+        /* Enable text selection for copying */
+    }
+    /* Address text styling */
+    #address_SUI,
+    #address_TRON,
+    #address_AVAX {
+        font-size: 16px;
+        color: white;
+        white-space: nowrap;
+        /* Prevents text from wrapping to the next line */
+        overflow: hidden;
+        /* Hides any overflow */
+        text-overflow: ellipsis;
+        /* Displays ellipsis (...) for overflowed text */
+        max-width: 180px;
+        /* Ensures the text doesn't overlap the button */
+    }
+    .address-container {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        /* Space between address and copy button */
+    }
+    .address-wrapper {
+        max-width: 220px;
+        /* Fixed width for the address */
+        overflow-x: auto;
+        /* Enable horizontal scrolling */
+        white-space: nowrap;
+        /* Prevent text wrapping */
+    }
+    .copy-btn {
+        background: none;
+        border: none;
+        cursor: pointer;
+        padding: 5px;
+    }
+    .copy-btn img {
+        width: 20px;
+        height: 20px;
+    }
+    /*END BOXES*/
+    #copy_and_address {
+        display: flex;
+        /* Use flexbox for alignment */
+        align-items: center;
+        /* Vertically align the text and button */
+        gap: 10px;
+        /* Add spacing between the text and the button */
+    }
+    #address {
+        margin: 0;
+        /* Remove default paragraph margin */
+        white-space: nowrap;
+        /* Prevent text from wrapping */
+        font-size: 16px;
+        /* Adjust as needed */
+    }
+    .ICON_ECOSYSTEM:hover {
+        filter: brightness(1.2);
+        /* Lighten the image on hover */
+    }
+    .TRON-link .ICON_ECOSYSTEM:hover {
+        filter: brightness(1.2);
+    }
+    /* Button background image and styling */
+    .copy-btn {
+        /* Add the image to the button */
+        background-size: contain;
+        /* Make the image fit the button */
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 30px;
+        /* Set the button width */
+        height: 30px;
+        /* Set the button height */
+        background-color: transparent;
+        /* Ensure the background is transparent */
+        border: none;
+        /* Remove any borders */
+        padding: 0;
+        /* Remove any default padding */
+        margin: 0;
+        /* Remove default margins if necessary */
+        cursor: pointer;
+        transition: filter 0.3s ease;
+        /* Smooth hover effect */
+    }
+    /* Hover effect */
+    .copy-btn:hover {
+        filter: brightness(1.2);
+        /* Lighten the image on hover */
+    }
+    #joke_box {
+        height: 24vh;
+        margin-bottom: 5px;
+        position: fixed;
+        bottom: 3px;
+        /* Position the logo at the bottom of the screen */
+        left: 30vh;
+    }
+    #toggle-text {
+        width: 30vh;
+    }
+    /* Question styling */
+    .question {
+        font-size: x-large;
+        cursor: pointer;
+        margin-bottom: 10px;
+        padding: 10px;
+        border-radius: 5px;
+        position: relative;
+        display: inline-block;
+        /* Keep the question and info button on the same line */
+    }
+    /* Info button styling */
+    #info {
+        cursor: pointer;
+        margin-left: 10px;
+        /* Space between the question text and the info button */
+        position: relative;
+        /* Anchor tooltip relative to this element */
+        display: inline-block;
+        vertical-align: middle;
+        /* Ensure it stays aligned with the text */
+        transition: filter 0.3s ease;
+        /* Smooth hover effect */
+    }
+    /* Hover effect for the info button */
+    #info:hover {
+        filter: brightness(1.5);
+        /* Brighten the button/icon */
+    }
+    /* Tooltip styling */
+    #info:hover::before {
+        content: "Enter the addresses below to avoid buying the fake ones";
+        position: absolute;
+        top: 50%;
+        /* Align tooltip with the middle of the info button */
+        left: 110%;
+        /* Place the tooltip to the right of the button */
+        transform: translateY(-50%);
+        /* Adjust vertical alignment */
+        padding: 10px;
+        border-radius: 5px;
+        font-size: 14px;
+        color: rgb(255, 0, 157);
+        /* Bright text color for visibility */
+        white-space: nowrap;
+        /* Prevent wrapping of tooltip text */
+        z-index: 1;
+        /* Add subtle shadow for better visibility */
+    }
+    /* Adjust icon styling */
+    #info img {
+        display: inline-block;
+        /* Ensure proper alignment with text */
+        vertical-align: sub
+        /* Align the icon with the question text */
+    }
+    /* Webkit Scrollbar Styling */
+     ::-webkit-scrollbar {
+        width: 12px;
+    }
+     ::-webkit-scrollbar-track {
+        background: #00696900;
+        border-radius: 10px;
+    }
+     ::-webkit-scrollbar-thumb {
+        background: #0d221f78;
+        border-radius: 10px;
+    }
+     ::-webkit-scrollbar-thumb:hover {
+        background: #1e5047;
+    }
+    /* Twitter icon styling */
+    .twitter-icon {
+        width: 80px;
+        height: auto;
+        cursor: pointer;
+        transition: transform 0.35s ease, box-shadow 0.35s ease;
+        /* Smooth animation */
+        position: absolute;
+        top: 20px;
+        right: 30px;
+    }
+    .twitter-icon:hover,
+    .twitter-icon:focus {
+        transform: scale(1.2) rotate(360deg);
+        /* Slight zoom and rotation effect */
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+        /* Add shadow on hover */
+    }
+}
+
+
+/* Mobile Responsiveness */
+
+@media (max-width: 768px) {
+    /*  BOXES  */
+    /*  BOXES  */
+    .ICON_ECOSYSTEM:hover {
+        filter: brightness(1.4);
+        /* Lighten the image on hover */
+    }
+    /* Style for the entire scrollbar */
+     ::-webkit-scrollbar {
+        width: 8px;
+        /* Set the width of the scrollbar */
+        height: 8px;
+        /* Set the height of the horizontal scrollbar */
+    }
+    /* Style for the scrollbar track (the area the scrollbar moves along) */
+     ::-webkit-scrollbar-track {
+        background-color: #f1f1f12f;
+        /* Light color for the track */
+        border-radius: 10px;
+        /* Rounded corners */
+    }
+    /* Style for the scrollbar thumb (the part you drag) */
+     ::-webkit-scrollbar-thumb {
+        background-color: #53e3cc;
+        /* Color of the thumb */
+        border-radius: 10px;
+        /* Rounded thumb */
+        border: 2px solid #00474a;
+        /* Optional: Border around the thumb */
+    }
+    /* Style when the scrollbar is hovered (when user interacts) */
+     ::-webkit-scrollbar-thumb:hover {
+        background-color: #3bb1a3;
+        /* Darker color for thumb on hover */
+    }
+    #answer_1 {
+        display: none;
+        /* Initially hidden */
+        flex-direction: row;
+        /* Align boxes horizontally */
+        justify-content: center;
+        /* Center the boxes horizontally */
+        gap: 10px;
+        /* Space between boxes */
+        margin: 1px;
+        opacity: 1;
+        transition: opacity 0.3s ease;
+        font-family: 'Lucida Sans', sans-serif;
+        padding: 1px;
+        width: 10%;
+        /* Full width */
+        top: 70%;
+        position: relative;
+        /* Ensures positioning works within the container */
+    }
+    /* Individual Boxes */
+    .BOX_SUI,
+    .BOX_TRON,
+    .BOX_AVAX {
+        flex: 1;
+        /* Allow boxes to grow and shrink equally */
+        /* Set a minimum width for each box */
+        max-width: 75px;
+        height: 80px;
+        /* Limit each box to 250px */
+        background-color: #00474a51;
+        border-radius: 10px;
+        text-align: center;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 1px;
+        margin: 1px 0;
+    }
+    /* Icons inside the boxes */
+    .BOX_SUI img,
+    .BOX_TRON img,
+    .BOX_AVAX img {
+        width: 3rem;
+        /* Icon size */
+        margin-bottom: 5px;
+    }
+    /* Address Styling */
+    #address_SUI,
+    #address_TRON,
+    #address_AVAX {
+        font-size: 12px;
+        height: 30px;
+        white-space: nowrap;
+        overflow-x: auto;
+        /* Enable horizontal scrolling */
+        max-width: 90%;
+        /* Allow address to take most of the space, but not overflow */
+        text-overflow: ellipsis;
+        /* Add ellipsis for overflowing text */
+        word-wrap: break-word;
+        /* Allow long text to break */
+        margin-top: 5px;
+    }
+    /* Address Container */
+    .address-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: fit-content;
+    }
+    /* Wrapper for address to ensure proper scrolling behavior */
+    .address-wrapper {
+        width: 100%;
+        /* Full width of the container */
+        overflow-x: auto;
+        white-space: nowrap;
+        /* Prevent wrapping */
+        text-overflow: ellipsis;
+    }
+    .copy-btn img {
+        width: 18px;
+        height: 18px;
+    }
+    /*  END OF BOXES  */
+    @keyframes colorChange {
+        0% {
+            filter: drop-shadow(0 0 5px #fef8ff) drop-shadow(0 0 10px #d027ff);
+            /* First color combination */
+        }
+        50% {
+            filter: drop-shadow(0 0 5px #d1c4ff) drop-shadow(0 0 10px #9d75f2);
+            /* Second color combination */
+        }
+        100% {
+            filter: drop-shadow(0 0 5px #b19cd9) drop-shadow(0 0 10px #53e3cc);
+            /* Third color combination */
+        }
+    }
+    /* General Body Styling */
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    #dots {
+        color: #53e3cc;
+    }
+    /* Title and Moto Styling */
+    .title {
+        font-size: 12vw;
+        /* SOLANA should be large */
+        text-align: center;
+        margin: 0;
+    }
+    #asset {
+        font-size: 12vw;
+        /* 'L' smaller to keep balance */
+        animation: colorChange 3s infinite alternate;
+    }
+    .moto1 {
+        font-size: 7vw;
+        text-align: center;
+        margin: 0;
+        display: block;
+    }
+    /* Center Logo Styling */
+    .logo_BIG {
+        position: absolute;
+        top: 67%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        /* Center it both vertically and horizontally */
+        height: 45;
+        /* Adjust the height */
+        width: 100%;
+        opacity: 0.5;
+        /* Faded effect */
+        transition: opacity 0.5s ease;
+        /* Smooth transition for fading */
+        z-index: -1;
+    }
+    /* Optional: Hover effect to make it fully visible on hover */
+    .logo_BIG:hover {
+        opacity: 1;
+        /* Fully visible when hovered */
+        z-index: -1;
+    }
+    /* Twitter Icon Positioning */
+    .twitter-wrapper {
+        position: absolute;
+        top: 1%;
+        right: 5%;
+    }
+    .twitter-link img {
+        width: 5vh;
+        height: auto;
+    }
+    /* Spacing for elements */
+    .title-container {
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    /* Container Styling */
+    .container {
+        position: absolute;
+        bottom: 10%;
+        right: 10%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #x_hash {
+        color: #53e3cc;
+        font-size: 2rem;
+        margin-top: 5px;
+        text-align: center;
+    }
+    /* Set the height of the container area */
+    /* Position the question box at the bottom left of the screen */
+    #joke_box {
+        position: fixed;
+        bottom: 10px;
+        /* Adjust the bottom margin */
+        left: 0;
+        /* Align to the left */
+        width: 40vw;
+        /* Box takes 40% of the screen width */
+        z-index: 10;
+    }
+    /* Highlighted text styling */
+    .highlight {
+        color: #d027ff;
+        /* SOLANAL and deep gains in this color */
+        font-weight: bold;
+        /* Optional: Make the highlighted text bold */
+    }
+    /* Styling for the question wrapper */
+    .question-wrapper {
+        display: flex;
+        justify-content: space-between;
+        /* Make space between the question and arrow */
+        align-items: center;
+        /* Center the content vertically */
+        background-color: rgba(0, 0, 0, 0.5);
+        /* Semi-transparent background */
+        padding: 10px;
+        border-radius: 10px;
+        color: white;
+        cursor: pointer;
+    }
+    /* Style for the arrow */
+    .arrow {
+        width: 15px;
+        /* Adjust size of the arrow */
+        transition: transform 0.3s ease-in-out;
+    }
+    /* The answer that appears after click */
+    .answer {
+        display: none;
+        /* Initially hidden */
+        opacity: 0;
+        transition: opacity 0.3s ease-in-out;
+        margin-top: 10px;
+        color: #fff;
+        font-size: 1rem;
+    }
+    /* Show answer when the question is clicked */
+    .question-wrapper.active+.answer {
+        display: block;
+        opacity: 1;
+    }
+    /* Optional: Add more styles to the answer */
+    #answer_0 {
+        margin-top: 10px;
+    }
+    /* Additional styling for the arrow rotation when active */
+    .question-wrapper.active .arrow {
+        transform: rotate(90deg);
+    }
+    /* Position the question box at the bottom left of the screen */
+    #joke_box {
+        position: fixed;
+        bottom: 10px;
+        /* Adjust the bottom margin */
+        left: 0;
+        /* Align to the left */
+        width: 50vh;
+        /* Box takes 40% of the screen width */
+        z-index: 10;
+    }
+    /* Styling for the question wrapper */
+    .question-wrapper {
+        display: flex;
+        justify-content: flex-start;
+        /* Align to the left */
+        align-items: center;
+        /* Vertically center */
+        background-color: rgba(0, 0, 0, 0);
+        /* Semi-transparent background */
+        padding: 10px;
+        border-radius: 10px;
+        color: white;
+        cursor: pointer;
+        position: relative;
+        /* To position the answer absolutely */
+        height: 100px;
+        /* Fixed height to prevent movement */
+        width: 50vw;
+        /* Box takes 40% of the screen width */
+        font-size: 0.8rem;
+    }
+    /* Styling for the answer text */
+    .answer {
+        display: none;
+        /* Initially hidden */
+        opacity: 0;
+        position: absolute;
+        top: 100%;
+        /* Position it below the question */
+        left: 0;
+        width: 100%;
+        margin-top: 5px;
+        color: #fff;
+        font-size: 1rem;
+        transition: opacity 0.3s ease-in-out;
+    }
+    /* When the answer is shown, it fades in */
+    .question-wrapper.active+.answer {
+        display: block;
+        opacity: 1;
+    }
+    /* Optional: Add styling for the answer */
+    #answer_0 {
+        margin-top: 10px;
+    }
+    #q_1 {
+        font-size: 1rem;
+    }
+    /* Adjusting the arrow to match question text size */
+    .arrow {
+        width: 1.05rem;
+        /* Arrow size matches question size */
+        height: auto;
+    }
+    .answer {
+        display: none;
+        font-size: 16px;
+        background-color: rgba(0, 0, 0, 0.6);
+        padding: 10px;
+        border-radius: 5px;
+        color: white;
+        margin-top: 5px;
+    }
+    .answer.show {
+        display: block;
+    }
+    /* Pump Text Positioned Bottom Right */
+    #pump_text {
+        position: fixed;
+        bottom: 5%;
+        right: 5%;
+        color: white;
+        font-size: 0.6rem;
+        text-align: center;
+        margin: 10px 0;
+    }
+    .dump-text {
+        color: #d027ff;
+    }
+    /* Small Logo Animation */
+    .logo {
+        height: 25px;
+        width: 25px;
+        object-fit: contain;
+        animation: colorCycle 5s infinite;
+        margin-left: 10px;
+        /* Space between text and logo */
+    }
+    /* @SOLANAL_X under Pump It text */
+    #x_hash {
+        position: fixed;
+        bottom: 1%;
+        right: 5%;
+        color: #53e3cc;
+        font-size: 1rem;
+        margin-top: 10px;
+        text-align: center;
+        font-size: 0.6rem;
+    }
+    /* Copy Button */
+    .copy-btn {
+        background-size: contain;
+        width: 25px;
+        height: 25px;
+        background-color: transparent;
+        border: none;
+        padding: 0;
+        cursor: pointer;
+        transition: filter 0.3s ease;
+    }
+    .copy-btn:hover {
+        filter: brightness(1.2);
+    }
+    /* Address and Copy Flexbox */
+    #copy_and_address {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        margin: 10px 0;
+    }
+    #address {
+        font-size: 14px;
+        color: white;
+    }
+    /* Info Tooltip */
+    #info {
+        cursor: pointer;
+        visibility: hidden;
+    }
+    #info:hover {
+        filter: brightness(1.5);
+    }
+    /* Tooltip under Contract Addresses */
+    #info:hover::before {
+        content: "Enter these addresses below to avoid buying fake ones";
+        position: absolute;
+        top: 100%;
+        /* Tooltip appears just below the contract address */
+        padding: 10px;
+        border-radius: 5px;
+        font-size: 14px;
+        color: #ffffff;
+        background-color: rgba(0, 0, 0, 0.7);
+        white-space: nowrap;
+        z-index: 1;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+    /* Icon Styling */
+    #info img {
+        display: inline-block;
+        vertical-align: middle;
+        max-width: 100%;
+        height: auto;
+    }
+    .logo {
+        visibility: hidden;
+    }
+}
