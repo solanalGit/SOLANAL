@@ -1,3 +1,39 @@
+function show_Answer_xrpl() {
+    var question = document.getElementById("q_xrpl");
+    var answer = document.getElementById("answer_x");
+    var arrow = question.querySelector(".arrow");
+
+    // Toggle active class on question
+    question.classList.toggle("active");
+
+    // Check if the screen size is small (mobile)
+    var isMobile = window.innerWidth <= 600;
+
+    // Toggle display and opacity of answer based on active class
+    if (question.classList.contains("active")) {
+        // Show the answer
+        if (isMobile) {
+            answer.style.display = "flex"; // Use block for small screens (mobile)
+        } else {
+            answer.style.display = "flex"; // Use flex for larger screens (desktop)
+        }
+
+        setTimeout(function() {
+            answer.style.opacity = "1";
+        }, 10);
+        arrow.style.transform = "rotate(90deg)";
+    } else {
+        // Hide the answer
+        answer.style.opacity = "0";
+        setTimeout(function() {
+            answer.style.display = "none";
+        }, 300);
+        arrow.style.transform = "rotate(0deg)";
+    }
+}
+
+
+
 function show_Answer_1() {
     var question = document.getElementById("q_1");
     var answer = document.getElementById("answer_1");
@@ -107,6 +143,10 @@ document.getElementById("copyButton_TRON").addEventListener("click", function() 
 
 document.getElementById("copyButton_AVAX").addEventListener("click", function() {
     copyToClipboard("address_AVAX");
+});
+
+document.getElementById("copyButton_XRPL").addEventListener("click", function() {
+    copyToClipboard("address_XRPL");
 });
 
 function copyToClipboard(elementId) {

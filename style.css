@@ -70,7 +70,7 @@ body {
         padding-left: 15px;
     }
     #q_1 {
-        font-size: 1.3rem;
+        font-size: x-large;
     }
     .moto1 {
         font-size: 6vh;
@@ -232,19 +232,28 @@ body {
     }
     .BOX_SUI,
     .BOX_TRON,
-    .BOX_AVAX {
+    .BOX_AVAX,
+    .BOX_XRPL {
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
         width: 300px;
         padding: 10px;
-        background-color: #00474a51;
+        background-color: #073031;
         border-radius: 10px;
         text-align: center;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         height: auto;
         /* Make the box height adjust to the text */
+        z-index: 1;
+    }
+    .BOX_XRPL img {
+        width: 100px;
+        margin-bottom: 10px;
+    }
+    #xrp_logo {
+        width: 150px;
     }
     .BOX_SUI img,
     .BOX_TRON img,
@@ -535,18 +544,33 @@ body {
         top: 70%;
         position: relative;
         /* Ensures positioning works within the container */
+        z-index: 2;
+    }
+    #answer_x {
+        display: none;
+        opacity: 0;
+        border-radius: 5px;
+        margin: 20px;
+        position: relative;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        z-index: 1;
     }
     /* Individual Boxes */
     .BOX_SUI,
     .BOX_TRON,
-    .BOX_AVAX {
+    .BOX_AVAX,
+    .BOX_XRPL {
         flex: 1;
         /* Allow boxes to grow and shrink equally */
         /* Set a minimum width for each box */
         max-width: 75px;
         height: 80px;
         /* Limit each box to 250px */
-        background-color: #00474a51;
+        background-color: #073031;
         border-radius: 10px;
         text-align: center;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -556,11 +580,13 @@ body {
         align-items: center;
         padding: 1px;
         margin: 1px 0;
+        z-index: 1;
     }
     /* Icons inside the boxes */
     .BOX_SUI img,
     .BOX_TRON img,
-    .BOX_AVAX img {
+    .BOX_AVAX img,
+    .BOX_XRPL img {
         width: 3rem;
         /* Icon size */
         margin-bottom: 5px;
@@ -726,7 +752,7 @@ body {
         /* Make space between the question and arrow */
         align-items: center;
         /* Center the content vertically */
-        background-color: rgba(0, 0, 0, 0.5);
+        background-color: rgba(0, 0, 0, 0);
         /* Semi-transparent background */
         padding: 10px;
         border-radius: 10px;
@@ -757,6 +783,7 @@ body {
     /* Optional: Add more styles to the answer */
     #answer_0 {
         margin-top: 10px;
+        z-index: 1;
     }
     /* Additional styling for the arrow rotation when active */
     .question-wrapper.active .arrow {
@@ -790,7 +817,7 @@ body {
         /* To position the answer absolutely */
         height: 100px;
         /* Fixed height to prevent movement */
-        width: 50vw;
+        width: 51vw;
         /* Box takes 40% of the screen width */
         font-size: 0.8rem;
     }
@@ -817,6 +844,7 @@ body {
     /* Optional: Add styling for the answer */
     #answer_0 {
         margin-top: 10px;
+        z-index: 1;
     }
     #q_1 {
         font-size: 1rem;
