@@ -1,0 +1,24 @@
+{
+    "name": "giroceanul",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "keywords": [],
+    "author": "Delia Bisoc",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "body-parser": "^1.20.3",
+        "cors": "^2.8.5",
+        "express": "^4.21.2",
+        "leaflet": "^1.9.4",
+        "react-leaflet": "^5.0.0",
+        "xlsx": "^0.18.5",
+        "react-scripts": "^5.0.0"
+    }
+}
