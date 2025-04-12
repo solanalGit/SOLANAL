@@ -1,0 +1,1834 @@
+[
+    {
+        "Streets":"ADER\u0102RII",
+        "Area":1.0,
+        "Latitude and Longitude":"45.71634722418589, 21.238817902952302",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7163472242,
+        "Longitude":21.238817903
+    },
+    {
+        "Streets":"ALBA IULIA",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"ALB\u0102STRELELOR",
+        "Area":1.0,
+        "Latitude and Longitude":"45.718192860860206, 21.254236400155367",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7181928609,
+        "Longitude":21.2542364002
+    },
+    {
+        "Streets":"ALBINEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"ALEEA CU PLOPI",
+        "Area":1.0,
+        "Latitude and Longitude":"45.70190516444387, 21.224506700766177",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7019051644,
+        "Longitude":21.2245067008
+    },
+    {
+        "Streets":"ALUNULUI",
+        "Area":1.0,
+        "Latitude and Longitude":"45.71224647413967, 21.245152853469914",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7122464741,
+        "Longitude":21.2451528535
+    },
+    {
+        "Streets":"AMARILIS",
+        "Area":1.0,
+        "Latitude and Longitude":"45.714198770781444, 21.27635171154965",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7141987708,
+        "Longitude":21.2763517115
+    },
+    {
+        "Streets":"AMURGULUI",
+        "Area":1.0,
+        "Latitude and Longitude":"45.77144633515548, 21.22690586053951",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7714463352,
+        "Longitude":21.2269058605
+    },
+    {
+        "Streets":"ANEMONEI",
+        "Area":1.0,
+        "Latitude and Longitude":"45.71936475017953, 21.253577625317533",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7193647502,
+        "Longitude":21.2535776253
+    },
+    {
+        "Streets":"APICULTORILOR",
+        "Area":1.0,
+        "Latitude and Longitude":"45.70052883578683, 21.24531305354875",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7005288358,
+        "Longitude":21.2453130535
+    },
+    {
+        "Streets":"APUSULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"ARENEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"ARIE\u0218ULUI",
+        "Area":2.0,
+        "Latitude and Longitude":"45.69748997522112, 21.223863845440835",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6974899752,
+        "Longitude":21.2238638454
+    },
+    {
+        "Streets":"ARGE\u0218ULUI",
+        "Area":2.0,
+        "Latitude and Longitude":"45.70140761517159, 21.224650165076355",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7014076152,
+        "Longitude":21.2246501651
+    },
+    {
+        "Streets":"Bd-ul. ARMATEI",
+        "Area":2.0,
+        "Latitude and Longitude":"45.702881795223405, 21.224913404702797",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7028817952,
+        "Longitude":21.2249134047
+    },
+    {
+        "Streets":"AR\u021aARULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"ASOCIA\u021aIEI",
+        "Area":2.0,
+        "Latitude and Longitude":"45.704638698488914, 21.230493563185824",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7046386985,
+        "Longitude":21.2304935632
+    },
+    {
+        "Streets":"A\u0218TRILOR",
+        "Area":2.0,
+        "Latitude and Longitude":"45.70833379787573, 21.23520568968821",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7083337979,
+        "Longitude":21.2352056897
+    },
+    {
+        "Streets":"ATOMULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"AVIATORULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"Bd-ul. AVIA\u021aIEI",
+        "Area":2.0,
+        "Latitude and Longitude":"45.71887557144544, 21.2432561983482",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7188755714,
+        "Longitude":21.2432561983
+    },
+    {
+        "Streets":"AZALEEA",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"B\u00c2RZAVA",
+        "Area":2.0,
+        "Latitude and Longitude":"45.702818884380434, 21.241541887149854",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7028188844,
+        "Longitude":21.2415418871
+    },
+    {
+        "Streets":"BEGA",
+        "Area":2.0,
+        "Latitude and Longitude":"45.69380222488566, 21.235493660329574",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6938022249,
+        "Longitude":21.2354936603
+    },
+    {
+        "Streets":"BERZEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"BICAZ",
+        "Area":3.0,
+        "Latitude and Longitude":"45.693484586177895, 21.228406265311147",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6934845862,
+        "Longitude":21.2284062653
+    },
+    {
+        "Streets":"BISTREI",
+        "Area":3.0,
+        "Latitude and Longitude":"45.69515779616929, 21.222930754978794",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6951577962,
+        "Longitude":21.222930755
+    },
+    {
+        "Streets":"BISTRI\u021aEI",
+        "Area":3.0,
+        "Latitude and Longitude":"45.698950159188726, 21.221935209334294",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6989501592,
+        "Longitude":21.2219352093
+    },
+    {
+        "Streets":"Intrarea BEGONIEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"BRA\u0218OV",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"BRAZILOR",
+        "Area":3.0,
+        "Latitude and Longitude":"45.71334194602358, 21.260993999880533",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.713341946,
+        "Longitude":21.2609939999
+    },
+    {
+        "Streets":"BR\u00c2NDUSEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"BRUSTURELUI",
+        "Area":3.0,
+        "Latitude and Longitude":"45.71672202358892, 21.27670993684264",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7167220236,
+        "Longitude":21.2767099368
+    },
+    {
+        "Streets":"BUBURUZEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"BUCURE\u0218TI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"BUJORILOR",
+        "Area":3.0,
+        "Latitude and Longitude":"45.72567133453828, 21.205430446904668",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7256713345,
+        "Longitude":21.2054304469
+    },
+    {
+        "Streets":"BUSUIOCULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"CAMELIEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"CARPA\u021aI",
+        "Area":3.0,
+        "Latitude and Longitude":"45.694997036386205, 21.231294918949423",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6949970364,
+        "Longitude":21.2312949189
+    },
+    {
+        "Streets":"CASCADEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"CASTANILOR",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"C\u0102PRIOAREI",
+        "Area":3.0,
+        "Latitude and Longitude":"45.68923173113911, 21.237338290493184",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6892317311,
+        "Longitude":21.2373382905
+    },
+    {
+        "Streets":"C\u0102R\u0102BUSULUI",
+        "Area":4.0,
+        "Latitude and Longitude":"45.71771032811438, 21.255265905729857",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7177103281,
+        "Longitude":21.2552659057
+    },
+    {
+        "Streets":"C\u00c2MPULUI",
+        "Area":4.0,
+        "Latitude and Longitude":"45.690666684329315, 21.241951305825122",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6906666843,
+        "Longitude":21.2419513058
+    },
+    {
+        "Streets":"CERBULUI",
+        "Area":4.0,
+        "Latitude and Longitude":"45.688023324553214, 21.237175793012675",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6880233246,
+        "Longitude":21.237175793
+    },
+    {
+        "Streets":"CERNA",
+        "Area":4.0,
+        "Latitude and Longitude":"45.695247188295625, 21.245658904914638",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6952471883,
+        "Longitude":21.2456589049
+    },
+    {
+        "Streets":"CERULUI",
+        "Area":4.0,
+        "Latitude and Longitude":"45.70911479806454, 21.238151526078692",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7091147981,
+        "Longitude":21.2381515261
+    },
+    {
+        "Streets":"CICOAREI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"CIOC\u00c2RLIEI",
+        "Area":4.0,
+        "Latitude and Longitude":"45.72166349305871, 21.233406079662956",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7216634931,
+        "Longitude":21.2334060797
+    },
+    {
+        "Streets":"CIRE\u0218ULUI",
+        "Area":4.0,
+        "Latitude and Longitude":"45.709616003330666, 21.247902719784353",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7096160033,
+        "Longitude":21.2479027198
+    },
+    {
+        "Streets":"CLUJ",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"CLOPOTULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"COMETEI",
+        "Area":4.0,
+        "Latitude and Longitude":"45.709119374238476, 21.239721968334816",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7091193742,
+        "Longitude":21.2397219683
+    },
+    {
+        "Streets":"CONSTELA\u021aIEI",
+        "Area":5.0,
+        "Latitude and Longitude":"45.70825344535408, 21.240518121517102",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7082534454,
+        "Longitude":21.2405181215
+    },
+    {
+        "Streets":"COSA\u0218ULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"COSMOS",
+        "Area":5.0,
+        "Latitude and Longitude":"45.70834812900339, 21.239951235541305",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.708348129,
+        "Longitude":21.2399512355
+    },
+    {
+        "Streets":"CRINULUI",
+        "Area":5.0,
+        "Latitude and Longitude":"45.72295855606759, 21.24534751880899",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7229585561,
+        "Longitude":21.2453475188
+    },
+    {
+        "Streets":"CRI\u0218ULUI",
+        "Area":5.0,
+        "Latitude and Longitude":"45.69546155114899, 21.24637144754538",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6954615511,
+        "Longitude":21.2463714475
+    },
+    {
+        "Streets":"CRIZANTEMEI",
+        "Area":5.0,
+        "Latitude and Longitude":"45.7149453015067, 21.275680916970945",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7149453015,
+        "Longitude":21.275680917
+    },
+    {
+        "Streets":"CUCULUI",
+        "Area":5.0,
+        "Latitude and Longitude":"45.71965653899974, 21.235494510184576",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.719656539,
+        "Longitude":21.2354945102
+    },
+    {
+        "Streets":"CUPIDON",
+        "Area":5.0,
+        "Latitude and Longitude":"45.71371646161209, 21.24025766879359",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7137164616,
+        "Longitude":21.2402576688
+    },
+    {
+        "Streets":"CURCUBEULUI",
+        "Area":5.0,
+        "Latitude and Longitude":"45.71653264326844, 21.254568544938266",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7165326433,
+        "Longitude":21.2545685449
+    },
+    {
+        "Streets":"DACILOR",
+        "Area":6.0,
+        "Latitude and Longitude":"45.70845525732932, 21.23011548763423",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7084552573,
+        "Longitude":21.2301154876
+    },
+    {
+        "Streets":"DAFINULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"DALIEI",
+        "Area":6.0,
+        "Latitude and Longitude":"45.713409159055416, 21.27375404237938",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7134091591,
+        "Longitude":21.2737540424
+    },
+    {
+        "Streets":"D\u00c2MBOVI\u021aEI",
+        "Area":6.0,
+        "Latitude and Longitude":"45.70014200837749, 21.225235018131745",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7001420084,
+        "Longitude":21.2252350181
+    },
+    {
+        "Streets":"DECEBAL",
+        "Area":6.0,
+        "Latitude and Longitude":"45.70951788139629, 21.232424240093625",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7095178814,
+        "Longitude":21.2324242401
+    },
+    {
+        "Streets":"DELFINULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"DESTINULUI",
+        "Area":6.0,
+        "Latitude and Longitude":"45.71297336036777, 21.237905739354616",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7129733604,
+        "Longitude":21.2379057394
+    },
+    {
+        "Streets":"DEVA",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"DIMINE\u021aII",
+        "Area":6.0,
+        "Latitude and Longitude":"45.71438764796448, 21.237297717778443",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.714387648,
+        "Longitude":21.2372977178
+    },
+    {
+        "Streets":"DIVERSIT\u0102\u021aII",
+        "Area":6.0,
+        "Latitude and Longitude":"45.716497236707106, 21.239318339811565",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7164972367,
+        "Longitude":21.2393183398
+    },
+    {
+        "Streets":"DUDULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"DUN\u0102REA",
+        "Area":6.0,
+        "Latitude and Longitude":"45.69640011742076, 21.24268264058347",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6964001174,
+        "Longitude":21.2426826406
+    },
+    {
+        "Streets":"ECOULUI",
+        "Area":7.0,
+        "Latitude and Longitude":"45.71231804772695, 21.242744912807108",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7123180477,
+        "Longitude":21.2427449128
+    },
+    {
+        "Streets":"EGALIT\u0102\u021aII",
+        "Area":7.0,
+        "Latitude and Longitude":"45.718200568329486, 21.240968360800974",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7182005683,
+        "Longitude":21.2409683608
+    },
+    {
+        "Streets":"EROILOR",
+        "Area":7.0,
+        "Latitude and Longitude":"45.70380694074553, 21.241325729776175",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7038069407,
+        "Longitude":21.2413257298
+    },
+    {
+        "Streets":"F\u0102GETULUI",
+        "Area":7.0,
+        "Latitude and Longitude":"45.689724297840435, 21.22596736401462",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6897242978,
+        "Longitude":21.225967364
+    },
+    {
+        "Streets":"F\u00c2NT\u00c2NI",
+        "Area":7.0,
+        "Latitude and Longitude":"45.704890493365326, 21.235719711162616",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7048904934,
+        "Longitude":21.2357197112
+    },
+    {
+        "Streets":"FICUSULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"FLOREN\u021aA",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"FLUTURELUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"FRASINULUI",
+        "Area":7.0,
+        "Latitude and Longitude":"45.71355578834113, 21.249145485662915",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7135557883,
+        "Longitude":21.2491454857
+    },
+    {
+        "Streets":"FREZIEI",
+        "Area":7.0,
+        "Latitude and Longitude":"45.7155269355783, 21.263108753463392",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7155269356,
+        "Longitude":21.2631087535
+    },
+    {
+        "Streets":"FRUNZEI",
+        "Area":7.0,
+        "Latitude and Longitude":"45.720070099650364, 21.250435907628155",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7200700997,
+        "Longitude":21.2504359076
+    },
+    {
+        "Streets":"FUCSIEI",
+        "Area":8.0,
+        "Latitude and Longitude":"45.72133085569552, 21.241637817669794",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7213308557,
+        "Longitude":21.2416378177
+    },
+    {
+        "Streets":"GALAXIEI",
+        "Area":8.0,
+        "Latitude and Longitude":"45.71431252281913, 21.249557682404905",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7143125228,
+        "Longitude":21.2495576824
+    },
+    {
+        "Streets":"GAROFI\u021aEI",
+        "Area":8.0,
+        "Latitude and Longitude":"45.72620027259206, 21.248177422946956",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7262002726,
+        "Longitude":21.2481774229
+    },
+    {
+        "Streets":"G\u0102LBENELELOR",
+        "Area":8.0,
+        "Latitude and Longitude":"45.71574557816294, 21.264538998945262",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7157455782,
+        "Longitude":21.2645389989
+    },
+    {
+        "Streets":"G\u0102RII",
+        "Area":8.0,
+        "Latitude and Longitude":"45.70692798462766, 21.240469590150948",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7069279846,
+        "Longitude":21.2404695902
+    },
+    {
+        "Streets":"G\u00c2NDULUI",
+        "Area":8.0,
+        "Latitude and Longitude":"45.71292575294016, 21.241028499362315",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7129257529,
+        "Longitude":21.2410284994
+    },
+    {
+        "Streets":"GHIOCEILOR",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"GHIRLANDEI",
+        "Area":8.0,
+        "Latitude and Longitude":"45.72020241477572, 21.241662300996897",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7202024148,
+        "Longitude":21.241662301
+    },
+    {
+        "Streets":"GLADIOLEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"GLORIA",
+        "Area":8.0,
+        "Latitude and Longitude":"45.697540915334116, 21.241474236209925",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6975409153,
+        "Longitude":21.2414742362
+    },
+    {
+        "Streets":"GOSPODARILOR",
+        "Area":9.0,
+        "Latitude and Longitude":"45.721906935588336, 21.24009942941787",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7219069356,
+        "Longitude":21.2400994294
+    },
+    {
+        "Streets":"GUTUIULUI",
+        "Area":9.0,
+        "Latitude and Longitude":"45.69492685210695, 21.250140610261383",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6949268521,
+        "Longitude":21.2501406103
+    },
+    {
+        "Streets":"HOLDELOR",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"HORTENSIEI",
+        "Area":9.0,
+        "Latitude and Longitude":"45.717546179300314, 21.26497780751907",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7175461793,
+        "Longitude":21.2649778075
+    },
+    {
+        "Streets":"IALOMI\u021aEI",
+        "Area":9.0,
+        "Latitude and Longitude":"45.69256499367171, 21.226049416476805",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6925649937,
+        "Longitude":21.2260494165
+    },
+    {
+        "Streets":"INDEPENDEN\u021aEI",
+        "Area":9.0,
+        "Latitude and Longitude":"45.70999308305889, 21.24264591264051",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7099930831,
+        "Longitude":21.2426459126
+    },
+    {
+        "Streets":"INFINITULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"INOCEN\u021aEI",
+        "Area":9.0,
+        "Latitude and Longitude":"45.712383014655984, 21.24300006544935",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7123830147,
+        "Longitude":21.2430000654
+    },
+    {
+        "Streets":"INTEGR\u0102RII",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"INULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"IRIS",
+        "Area":9.0,
+        "Latitude and Longitude":"45.725091447324594, 21.24086718467577",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7250914473,
+        "Longitude":21.2408671847
+    },
+    {
+        "Streets":"JIULUI",
+        "Area":9.0,
+        "Latitude and Longitude":"45.69420152770718, 21.22491451639716",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6942015277,
+        "Longitude":21.2249145164
+    },
+    {
+        "Streets":"JUPITER",
+        "Area":10.0,
+        "Latitude and Longitude":"45.70952417611821, 21.240311460991162",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7095241761,
+        "Longitude":21.240311461
+    },
+    {
+        "Streets":"KRYPTON",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"Calea LACTEE",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"LALELELOR",
+        "Area":10.0,
+        "Latitude and Longitude":"45.72198198871016, 21.24290015696713",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7219819887,
+        "Longitude":21.242900157
+    },
+    {
+        "Streets":"LANULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"LAVANDEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"L\u0102CR\u0102MIOAREI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"L\u0102CUSTEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"L\u0102MAI\u021aEI",
+        "Area":10.0,
+        "Latitude and Longitude":"45.7228709678319, 21.24944607223446",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7228709678,
+        "Longitude":21.2494460722
+    },
+    {
+        "Streets":"LEULUI",
+        "Area":10.0,
+        "Latitude and Longitude":"45.699506029384345, 21.24874867494977",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6995060294,
+        "Longitude":21.2487486749
+    },
+    {
+        "Streets":"LIBERT\u0102\u021aII",
+        "Area":10.0,
+        "Latitude and Longitude":"45.71685032953683, 21.23736425022206",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7168503295,
+        "Longitude":21.2373642502
+    },
+    {
+        "Streets":"LILIACULUI",
+        "Area":10.0,
+        "Latitude and Longitude":"45.71687305015132, 21.260796868799318",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7168730502,
+        "Longitude":21.2607968688
+    },
+    {
+        "Streets":"LIREI",
+        "Area":10.0,
+        "Latitude and Longitude":"45.698108093924944, 21.25399590415141",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6981080939,
+        "Longitude":21.2539959042
+    },
+    {
+        "Streets":"LIVEZILE",
+        "Area":10.0,
+        "Latitude and Longitude":"45.69493206411455, 21.250014333923065",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6949320641,
+        "Longitude":21.2500143339
+    },
+    {
+        "Streets":"LOSTRI\u021aEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"LUCEAF\u0102RULUI",
+        "Area":11.0,
+        "Latitude and Longitude":"45.71955324504217, 21.241432971956026",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.719553245,
+        "Longitude":21.241432972
+    },
+    {
+        "Streets":"LUMINII",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"LUNEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"MACILOR",
+        "Area":11.0,
+        "Latitude and Longitude":"45.721155150056276, 21.247249366241302",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7211551501,
+        "Longitude":21.2472493662
+    },
+    {
+        "Streets":"MAGNOLIEI",
+        "Area":11.0,
+        "Latitude and Longitude":"45.72704770321617, 21.275585892686312",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7270477032,
+        "Longitude":21.2755858927
+    },
+    {
+        "Streets":"MARGARETEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"MARTE",
+        "Area":11.0,
+        "Latitude and Longitude":"45.7116286027271, 21.238954500534728",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7116286027,
+        "Longitude":21.2389545005
+    },
+    {
+        "Streets":"M\u0102GHIRANULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"MERCUR",
+        "Area":11.0,
+        "Latitude and Longitude":"45.71117845456229, 21.235992014916725",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7111784546,
+        "Longitude":21.2359920149
+    },
+    {
+        "Streets":"MESTEAC\u0102NULUI",
+        "Area":11.0,
+        "Latitude and Longitude":"45.695906439321064, 21.2519304793883",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6959064393,
+        "Longitude":21.2519304794
+    },
+    {
+        "Streets":"METEORITULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"MIERLEI",
+        "Area":11.0,
+        "Latitude and Longitude":"45.71978207543269, 21.234419568227946",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7197820754,
+        "Longitude":21.2344195682
+    },
+    {
+        "Streets":"MIRI\u0218TEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"MUNCITORILOR",
+        "Area":11.0,
+        "Latitude and Longitude":"45.69752804439081, 21.23535380228024",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6975280444,
+        "Longitude":21.2353538023
+    },
+    {
+        "Streets":"MURE\u0218",
+        "Area":12.0,
+        "Latitude and Longitude":"45.695337826054825, 21.227702155479193",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6953378261,
+        "Longitude":21.2277021555
+    },
+    {
+        "Streets":"MUZICESCU",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"NALBEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"NARCISEI",
+        "Area":12.0,
+        "Latitude and Longitude":"45.719596342950425, 21.24217428012307",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.719596343,
+        "Longitude":21.2421742801
+    },
+    {
+        "Streets":"NATURII",
+        "Area":12.0,
+        "Latitude and Longitude":"45.70084893303477, 21.227584187374074",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.700848933,
+        "Longitude":21.2275841874
+    },
+    {
+        "Streets":"NEAJLOVULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"NEPTUN",
+        "Area":12.0,
+        "Latitude and Longitude":"45.71137767090863, 21.242529563169953",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7113776709,
+        "Longitude":21.2425295632
+    },
+    {
+        "Streets":"NISTRULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"NIVELDA",
+        "Area":12.0,
+        "Latitude and Longitude":"45.69071484532679, 21.246110424809704",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6907148453,
+        "Longitude":21.2461104248
+    },
+    {
+        "Streets":"NUFERILOR",
+        "Area":12.0,
+        "Latitude and Longitude":"45.71925203935461, 21.2620134064613",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7192520394,
+        "Longitude":21.2620134065
+    },
+    {
+        "Streets":"Intrarea OMEGA",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"ORHIDEEA",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"ORION",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"PARCULUI",
+        "Area":12.0,
+        "Latitude and Longitude":"45.711620829534766, 21.24772652910462",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7116208295,
+        "Longitude":21.2477265291
+    },
+    {
+        "Streets":"P\u0102DUREANA",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"P\u0102P\u0102DIEI",
+        "Area":12.0,
+        "Latitude and Longitude":"45.71568232353381, 21.26787482173452",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7156823235,
+        "Longitude":21.2678748217
+    },
+    {
+        "Streets":"PEPINIEREI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"PESCARILOR",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"PETALEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"PETUNIEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"PINULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"PIRULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"PLANETEI",
+        "Area":13.0,
+        "Latitude and Longitude":"45.708133697871865, 21.237787081813963",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7081336979,
+        "Longitude":21.2377870818
+    },
+    {
+        "Streets":"Bd-ul. PLANI\u0218TE",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"PLATANILOR",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"PLUTO",
+        "Area":13.0,
+        "Latitude and Longitude":"45.7119136809099, 21.237976527821456",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7119136809,
+        "Longitude":21.2379765278
+    },
+    {
+        "Streets":"POENI\u021aEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"POEZIEI",
+        "Area":13.0,
+        "Latitude and Longitude":"45.69814250630615, 21.25063429983721",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6981425063,
+        "Longitude":21.2506342998
+    },
+    {
+        "Streets":"PREOT DAVID VONIGA",
+        "Area":13.0,
+        "Latitude and Longitude":"45.70143213941284, 21.235359179766125",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7014321394,
+        "Longitude":21.2353591798
+    },
+    {
+        "Streets":"PRIVIGHETORII",
+        "Area":13.0,
+        "Latitude and Longitude":"45.71982583729499, 21.232534607727505",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7198258373,
+        "Longitude":21.2325346077
+    },
+    {
+        "Streets":"PRUNULUI",
+        "Area":13.0,
+        "Latitude and Longitude":"45.6954227781483, 21.252171314563643",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6954227781,
+        "Longitude":21.2521713146
+    },
+    {
+        "Streets":"PRUTULUI",
+        "Area":13.0,
+        "Latitude and Longitude":"45.68913695173331, 21.226890082926108",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6891369517,
+        "Longitude":21.2268900829
+    },
+    {
+        "Streets":"PUSTA",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"PUTNA",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"RACHETEI",
+        "Area":13.0,
+        "Latitude and Longitude":"45.708305498250425, 21.238648339881124",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7083054983,
+        "Longitude":21.2386483399
+    },
+    {
+        "Streets":"RAPI\u021aEI",
+        "Area":14.0,
+        "Latitude and Longitude":"45.71978934867272, 21.264086585149148",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7197893487,
+        "Longitude":21.2640865851
+    },
+    {
+        "Streets":"R\u0102S\u0102RITULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"R\u00c2NDUNICII",
+        "Area":14.0,
+        "Latitude and Longitude":"45.7216804809201, 21.235346262980748",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7216804809,
+        "Longitude":21.235346263
+    },
+    {
+        "Streets":"RECOLTEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"RENA\u0218TERII",
+        "Area":14.0,
+        "Latitude and Longitude":"45.71605505851715, 21.242339311655144",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7160550585,
+        "Longitude":21.2423393117
+    },
+    {
+        "Streets":"RODNEI",
+        "Area":14.0,
+        "Latitude and Longitude":"45.69201758992026, 21.230967643045844",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6920175899,
+        "Longitude":21.230967643
+    },
+    {
+        "Streets":"ROINI\u021aEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"ROMANILOR",
+        "Area":14.0,
+        "Latitude and Longitude":"45.70879488852084, 21.231077692457013",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7087948885,
+        "Longitude":21.2310776925
+    },
+    {
+        "Streets":"ROZELOR",
+        "Area":14.0,
+        "Latitude and Longitude":"45.72481665062253, 21.24963480145891",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7248166506,
+        "Longitude":21.2496348015
+    },
+    {
+        "Streets":"SALC\u00c2MULUI",
+        "Area":14.0,
+        "Latitude and Longitude":"45.71939166011442, 21.25468867951441",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7193916601,
+        "Longitude":21.2546886795
+    },
+    {
+        "Streets":"SALVIEI",
+        "Area":14.0,
+        "Latitude and Longitude":"45.71634833667377, 21.276012180862594",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7163483367,
+        "Longitude":21.2760121809
+    },
+    {
+        "Streets":"SATELITULUI",
+        "Area":15.0,
+        "Latitude and Longitude":"45.70815406278126, 21.2363554826724",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7081540628,
+        "Longitude":21.2363554827
+    },
+    {
+        "Streets":"SATU B\u0102TR\u00c2N",
+        "Area":15.0,
+        "Latitude and Longitude":"45.693286270794104, 21.227149766324",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6932862708,
+        "Longitude":21.2271497663
+    },
+    {
+        "Streets":"SATURN",
+        "Area":15.0,
+        "Latitude and Longitude":"45.71222214366025, 21.238422653093256",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7122221437,
+        "Longitude":21.2384226531
+    },
+    {
+        "Streets":"S\u0102LA\u0218",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"S\u00c2NZIENELOR",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"SEMENIC",
+        "Area":15.0,
+        "Latitude and Longitude":"45.700755561787695, 21.233585460249436",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7007555618,
+        "Longitude":21.2335854602
+    },
+    {
+        "Streets":"SIRENEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"SIRETULUI",
+        "Area":15.0,
+        "Latitude and Longitude":"45.69663075428741, 21.22449534098396",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6966307543,
+        "Longitude":21.224495341
+    },
+    {
+        "Streets":"Bd-ul. SOARELUI",
+        "Area":15.0,
+        "Latitude and Longitude":"45.71574665774792, 21.239335761899177",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7157466577,
+        "Longitude":21.2393357619
+    },
+    {
+        "Streets":"SOCULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"SOFIA",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"SOLIDAIT\u0102\u021aII",
+        "Area":15.0,
+        "Latitude and Longitude":"45.716217662281345, 21.24085882706952",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7162176623,
+        "Longitude":21.2408588271
+    },
+    {
+        "Streets":"SOMNULUI",
+        "Area":15.0,
+        "Latitude and Longitude":"45.71893623209354, 21.26416681671251",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7189362321,
+        "Longitude":21.2641668167
+    },
+    {
+        "Streets":"SPERAN\u021aEI",
+        "Area":16.0,
+        "Latitude and Longitude":"45.714508005323964, 21.2411592059467",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7145080053,
+        "Longitude":21.2411592059
+    },
+    {
+        "Streets":"SPICULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"STELEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"Bd-ul. SUDULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"SUN\u0102TOAREI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"\u0218COLII",
+        "Area":16.0,
+        "Latitude and Longitude":"45.69674365640026, 21.238335881676804",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6967436564,
+        "Longitude":21.2383358817
+    },
+    {
+        "Streets":"\u0218TIIN\u021aEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"TEIULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"TIGRULUI",
+        "Area":16.0,
+        "Latitude and Longitude":"45.69284338258302, 21.245657339697452",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6928433826,
+        "Longitude":21.2456573397
+    },
+    {
+        "Streets":"TIMI\u0218",
+        "Area":16.0,
+        "Latitude and Longitude":"45.697263986432034, 21.238482111126668",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.6972639864,
+        "Longitude":21.2384821111
+    },
+    {
+        "Streets":"TISMANA",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"TRANDAFIRILOR",
+        "Area":16.0,
+        "Latitude and Longitude":"45.694474730012075, 21.237075048639184",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.69447473,
+        "Longitude":21.2370750486
+    },
+    {
+        "Streets":"TURDA",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"UNIT\u0102\u021aII",
+        "Area":16.0,
+        "Latitude and Longitude":"45.71706586705967, 21.23906345515754",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7170658671,
+        "Longitude":21.2390634552
+    },
+    {
+        "Streets":"UNIVERSULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"URANUS",
+        "Area":16.0,
+        "Latitude and Longitude":"45.71161415378755, 21.236904999420098",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7116141538,
+        "Longitude":21.2369049994
+    },
+    {
+        "Streets":"URSEI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"Calea URSENI",
+        "Area":16.0,
+        "Latitude and Longitude":"45.720273387593096, 21.265572945972572",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7202733876,
+        "Longitude":21.265572946
+    },
+    {
+        "Streets":"URZICII",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"V\u00c2N\u0102TORILOR",
+        "Area":17.0,
+        "Latitude and Longitude":"45.717332015870454, 21.229924654951432",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7173320159,
+        "Longitude":21.229924655
+    },
+    {
+        "Streets":"V\u00c2NTULUI",
+        "Area":17.0,
+        "Latitude and Longitude":"45.7117017770209, 21.241394297896047",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.711701777,
+        "Longitude":21.2413942979
+    },
+    {
+        "Streets":"V\u00c2SCULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"VENUS",
+        "Area":17.0,
+        "Latitude and Longitude":"45.71234573933814, 21.2388649013892",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7123457393,
+        "Longitude":21.2388649014
+    },
+    {
+        "Streets":"VIDREI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"VIORELELOR",
+        "Area":17.0,
+        "Latitude and Longitude":"45.72105918094417, 21.249533111094102",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7210591809,
+        "Longitude":21.2495331111
+    },
+    {
+        "Streets":"VISULUI",
+        "Area":17.0,
+        "Latitude and Longitude":"45.71460094868295, 21.23651437978118",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7146009487,
+        "Longitude":21.2365143798
+    },
+    {
+        "Streets":"VI\u0218INULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"VOLBUREI",
+        "Area":17.0,
+        "Latitude and Longitude":"45.718125823198584, 21.27660813052168",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7181258232,
+        "Longitude":21.2766081305
+    },
+    {
+        "Streets":"Intrarea ZAMBILEI",
+        "Area":17.0,
+        "Latitude and Longitude":"45.72054948420964, 21.241453494763064",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7205494842,
+        "Longitude":21.2414534948
+    },
+    {
+        "Streets":"ZARANDULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"ZBORULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"ZEFIRULUI",
+        "Area":17.0,
+        "Latitude and Longitude":"45.718612446139296, 21.239184221317476",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7186124461,
+        "Longitude":21.2391842213
+    },
+    {
+        "Streets":"ZENITULUI",
+        "Area":null,
+        "Latitude and Longitude":null,
+        "Existing Coordinates":"No",
+        "Latitude":null,
+        "Longitude":null
+    },
+    {
+        "Streets":"Calea Timisoarei",
+        "Area":18.0,
+        "Latitude and Longitude":"45.712047519582164, 21.234830103406125",
+        "Existing Coordinates":"Yes",
+        "Latitude":45.7120475196,
+        "Longitude":21.2348301034
+    }
+]
