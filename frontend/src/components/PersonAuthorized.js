@@ -82,7 +82,7 @@ const PersonAuthorized = ({ onAuthorized }) => {
                 </div>
               )}
             </div>
-            <button onClick={validateAuth}>Authorize</button>
+            <button id="authh" onClick={validateAuth}>Authorize</button>
             {error && <p style={{ color: 'red' }}>{error}</p>}
           </div>
         ) : (
